@@ -1,0 +1,1 @@
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-1\05_MVVM\05_MVVM.csproj;x64

@@ -1,0 +1,17 @@
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-1\06_SOLID_SRP\bin\Debug\net7.0\06_SOLID_SRP.exe
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-1\06_SOLID_SRP\bin\Debug\net7.0\06_SOLID_SRP.deps.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-1\06_SOLID_SRP\bin\Debug\net7.0\06_SOLID_SRP.runtimeconfig.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-1\06_SOLID_SRP\bin\Debug\net7.0\06_SOLID_SRP.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-1\06_SOLID_SRP\bin\Debug\net7.0\06_SOLID_SRP.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-1\06_SOLID_SRP\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-1\06_SOLID_SRP\obj\Debug\net7.0\06_SOLID_SRP.csproj.AssemblyReference.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-1\06_SOLID_SRP\obj\Debug\net7.0\06_SOLID_SRP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-1\06_SOLID_SRP\obj\Debug\net7.0\06_SOLID_SRP.AssemblyInfoInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-1\06_SOLID_SRP\obj\Debug\net7.0\06_SOLID_SRP.AssemblyInfo.cs
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-1\06_SOLID_SRP\obj\Debug\net7.0\06_SOLID_SRP.csproj.CoreCompileInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-1\06_SOLID_SRP\obj\Debug\net7.0\06_SOLID_SRP.csproj.CopyComplete
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-1\06_SOLID_SRP\obj\Debug\net7.0\06_SOLID_SRP.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-1\06_SOLID_SRP\obj\Debug\net7.0\refint\06_SOLID_SRP.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-1\06_SOLID_SRP\obj\Debug\net7.0\06_SOLID_SRP.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-1\06_SOLID_SRP\obj\Debug\net7.0\06_SOLID_SRP.genruntimeconfig.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-1\06_SOLID_SRP\obj\Debug\net7.0\ref\06_SOLID_SRP.dll

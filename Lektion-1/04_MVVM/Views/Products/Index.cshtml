@@ -1,0 +1,26 @@
+﻿@model ProductIndexViewModel
+
+<div>
+    <h1>Best Selling Products</h1>
+    @foreach(var product in Model.BestSelling)
+    {
+        
+    }
+</div>
+
+<div>
+    <h1>New Arrivals</h1>
+    @foreach (var product in Model.Latest)
+    {
+
+    }
+</div>
+
+<div>
+    <h1>Watched Products</h1>
+    @foreach (var product in Model.RecentlyWatched)
+    {
+
+    }
+</div>
+

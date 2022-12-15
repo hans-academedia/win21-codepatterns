@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "esP5/rQu19BvfdRym/EPiu81LqbfW8KYOrTXCaeGcg9Kxmx1jajEkHCG4YGq1jzOrSUStX5Y0gTwbckU5Ib3wQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\WIN21\\win21-codepatterns\\Lektion-1\\06_SOLID_SRP\\06_SOLID_SRP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HansMattin-Lassei\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

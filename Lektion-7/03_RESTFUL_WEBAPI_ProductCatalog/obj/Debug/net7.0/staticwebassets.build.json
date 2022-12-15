@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oRQCdpHraEuGL0ckdUlhG3J74UDRiHwMa6KGM/gUWiA=",
+  "Source": "03_RESTFUL_WEBAPI_ProductCatalog",
+  "BasePath": "_content/03_RESTFUL_WEBAPI_ProductCatalog",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

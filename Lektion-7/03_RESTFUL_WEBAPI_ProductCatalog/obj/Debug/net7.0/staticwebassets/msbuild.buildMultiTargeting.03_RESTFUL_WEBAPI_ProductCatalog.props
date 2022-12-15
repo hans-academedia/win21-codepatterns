@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\03_RESTFUL_WEBAPI_ProductCatalog.props" />
+</Project>

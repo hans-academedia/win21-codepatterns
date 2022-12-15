@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "J2CGTI+utDgjs81BWVe2QklkUrV1ajDTrpa7tWLJTwI=",
+  "Source": "02_gRPC_Server",
+  "BasePath": "_content/02_gRPC_Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_RabbitMQ_Sender", "01_RabbitMQ_Sender\01_RabbitMQ_Sender.csproj", "{432C61E6-BFB9-482C-8DE2-EF2C1D4C819C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_RabbitMQ_Receiver", "01_RabbitMQ_Receiver\01_RabbitMQ_Receiver.csproj", "{9D68C1CA-EC3D-4424-9541-E09F3F938CA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_gRPC_Server", "02_gRPC_Server\02_gRPC_Server.csproj", "{340BC7B8-86E5-4FA9-9C8F-BE50AF47E6D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_gRPC_Client", "02_gRPC_Client\02_gRPC_Client.csproj", "{B277D0FC-9C1C-4D5D-9BCF-E777409AB0A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_RESTFUL_WEBAPI_ProductCatalog", "03_RESTFUL_WEBAPI_ProductCatalog\03_RESTFUL_WEBAPI_ProductCatalog.csproj", "{D0A73C66-EB0C-436F-9F01-EB0D00F19AF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_RESTFUL_WEBAPI_UserCatalog", "03_RESTFUL_WEBAPI_UserCatalog\03_RESTFUL_WEBAPI_UserCatalog.csproj", "{C0625ECC-5A69-4664-B4D7-45F9DD89BA30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_FRONTEND", "03_FRONTEND\03_FRONTEND.csproj", "{178D3E01-8F01-435A-9CE4-B0632239031F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{432C61E6-BFB9-482C-8DE2-EF2C1D4C819C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{432C61E6-BFB9-482C-8DE2-EF2C1D4C819C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{432C61E6-BFB9-482C-8DE2-EF2C1D4C819C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{432C61E6-BFB9-482C-8DE2-EF2C1D4C819C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D68C1CA-EC3D-4424-9541-E09F3F938CA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D68C1CA-EC3D-4424-9541-E09F3F938CA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D68C1CA-EC3D-4424-9541-E09F3F938CA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D68C1CA-EC3D-4424-9541-E09F3F938CA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{340BC7B8-86E5-4FA9-9C8F-BE50AF47E6D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{340BC7B8-86E5-4FA9-9C8F-BE50AF47E6D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{340BC7B8-86E5-4FA9-9C8F-BE50AF47E6D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{340BC7B8-86E5-4FA9-9C8F-BE50AF47E6D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B277D0FC-9C1C-4D5D-9BCF-E777409AB0A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B277D0FC-9C1C-4D5D-9BCF-E777409AB0A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B277D0FC-9C1C-4D5D-9BCF-E777409AB0A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B277D0FC-9C1C-4D5D-9BCF-E777409AB0A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0A73C66-EB0C-436F-9F01-EB0D00F19AF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0A73C66-EB0C-436F-9F01-EB0D00F19AF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0A73C66-EB0C-436F-9F01-EB0D00F19AF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0A73C66-EB0C-436F-9F01-EB0D00F19AF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0625ECC-5A69-4664-B4D7-45F9DD89BA30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0625ECC-5A69-4664-B4D7-45F9DD89BA30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0625ECC-5A69-4664-B4D7-45F9DD89BA30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0625ECC-5A69-4664-B4D7-45F9DD89BA30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{178D3E01-8F01-435A-9CE4-B0632239031F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{178D3E01-8F01-435A-9CE4-B0632239031F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{178D3E01-8F01-435A-9CE4-B0632239031F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{178D3E01-8F01-435A-9CE4-B0632239031F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6A783CF-C633-4199-8BA2-5271963B9F74}
+	EndGlobalSection
+EndGlobal

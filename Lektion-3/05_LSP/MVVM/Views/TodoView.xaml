@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="_05_LSP.MVVM.Views.TodoView"
+             xmlns:viewModels="clr-namespace:_05_LSP.MVVM.ViewModels"
+             xmlns:models="clr-namespace:_05_LSP.MVVM.Models"
+             x:DataType="viewModels:TodoViewModel"
+             Title="TodoView">
+
+    <Grid RowDefinitions="80, auto, *" ColumnDefinitions=".75*, .25*" ColumnSpacing="10" RowSpacing="50" Margin="20">
+        <Image Source="dotnet_bot.svg" Grid.Row="0" Grid.ColumnSpan="2" HorizontalOptions="Center" />
+    </Grid>
+    
+</ContentPage>

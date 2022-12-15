@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>05_LSP</name>
+    </assembly>
+    <members>
+        <member name="P:_05_LSP.MVVM.ViewModels.TodoViewModel.Text">
+            <inheritdoc cref="F:_05_LSP.MVVM.ViewModels.TodoViewModel.text"/>
+        </member>
+        <member name="P:_05_LSP.MVVM.ViewModels.TodoViewModel.Todos">
+            <inheritdoc cref="F:_05_LSP.MVVM.ViewModels.TodoViewModel.todos"/>
+        </member>
+        <member name="F:_05_LSP.MVVM.ViewModels.TodoViewModel.addCommand">
+            <summary>The backing field for <see cref="P:_05_LSP.MVVM.ViewModels.TodoViewModel.AddCommand"/>.</summary>
+        </member>
+        <member name="P:_05_LSP.MVVM.ViewModels.TodoViewModel.AddCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand"/> instance wrapping <see cref="M:_05_LSP.MVVM.ViewModels.TodoViewModel.Add"/>.</summary>
+        </member>
+    </members>
+</doc>

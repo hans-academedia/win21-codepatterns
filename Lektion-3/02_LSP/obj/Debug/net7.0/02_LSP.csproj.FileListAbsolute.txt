@@ -1,0 +1,15 @@
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-3\02_LSP\bin\Debug\net7.0\02_LSP.exe
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-3\02_LSP\bin\Debug\net7.0\02_LSP.deps.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-3\02_LSP\bin\Debug\net7.0\02_LSP.runtimeconfig.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-3\02_LSP\bin\Debug\net7.0\02_LSP.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-3\02_LSP\bin\Debug\net7.0\02_LSP.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-3\02_LSP\obj\Debug\net7.0\02_LSP.csproj.AssemblyReference.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-3\02_LSP\obj\Debug\net7.0\02_LSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-3\02_LSP\obj\Debug\net7.0\02_LSP.AssemblyInfoInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-3\02_LSP\obj\Debug\net7.0\02_LSP.AssemblyInfo.cs
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-3\02_LSP\obj\Debug\net7.0\02_LSP.csproj.CoreCompileInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-3\02_LSP\obj\Debug\net7.0\02_LSP.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-3\02_LSP\obj\Debug\net7.0\refint\02_LSP.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-3\02_LSP\obj\Debug\net7.0\02_LSP.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-3\02_LSP\obj\Debug\net7.0\02_LSP.genruntimeconfig.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-3\02_LSP\obj\Debug\net7.0\ref\02_LSP.dll

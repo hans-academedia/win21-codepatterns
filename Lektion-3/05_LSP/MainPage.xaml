@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewModels="clr-namespace:_05_LSP.MVVM.ViewModels"
+             xmlns:models="clr-namespace:_05_LSP.MVVM.Models"
+             x:DataType="viewModels:TodoViewModel"
+             x:Class="_05_LSP.MainPage">
+
+
+    <Grid RowDefinitions="80, auto, *" ColumnDefinitions=".75*, .25*" ColumnSpacing="10" RowSpacing="50" Margin="20">
+        <Image Source="dotnet_bot.svg" Grid.Row="0" Grid.ColumnSpan="2" HorizontalOptions="Center" />
+
+        <Entry Text="{Binding Text}" Grid.Row="1" Grid.Column="0" Placeholder="Ange en aktivitet..." />
+        <Button Text="Lägg Till" Command="{Binding AddCommand}" Grid.Row="1" Grid.Column="1" />
+
+        <CollectionView ItemsSource="{Binding Todos}" Grid.Row="2" Grid.ColumnSpan="2" SelectionMode="None">
+            <CollectionView.ItemTemplate>
+                <DataTemplate x:DataType="{x:Type models:TodoModel}">
+                    <Grid Padding="0, 5">
+                        <Frame>
+                            <Grid RowDefinitions="auto, auto">
+                                <Label Grid.Row="0" Text="{Binding Text}" Margin="5, 0" FontAttributes="Bold" />
+                                <Label Grid.Row="1" Text="{Binding Created}" Margin="5, 0" FontSize="10" />
+                            </Grid>
+                        </Frame>
+                    </Grid>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </Grid>
+
+</ContentPage>

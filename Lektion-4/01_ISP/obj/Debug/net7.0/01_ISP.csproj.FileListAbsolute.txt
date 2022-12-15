@@ -1,0 +1,15 @@
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-4\01_ISP\bin\Debug\net7.0\01_ISP.exe
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-4\01_ISP\bin\Debug\net7.0\01_ISP.deps.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-4\01_ISP\bin\Debug\net7.0\01_ISP.runtimeconfig.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-4\01_ISP\bin\Debug\net7.0\01_ISP.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-4\01_ISP\bin\Debug\net7.0\01_ISP.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-4\01_ISP\obj\Debug\net7.0\01_ISP.csproj.AssemblyReference.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-4\01_ISP\obj\Debug\net7.0\01_ISP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-4\01_ISP\obj\Debug\net7.0\01_ISP.AssemblyInfoInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-4\01_ISP\obj\Debug\net7.0\01_ISP.AssemblyInfo.cs
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-4\01_ISP\obj\Debug\net7.0\01_ISP.csproj.CoreCompileInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-4\01_ISP\obj\Debug\net7.0\01_ISP.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-4\01_ISP\obj\Debug\net7.0\refint\01_ISP.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-4\01_ISP\obj\Debug\net7.0\01_ISP.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-4\01_ISP\obj\Debug\net7.0\01_ISP.genruntimeconfig.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-4\01_ISP\obj\Debug\net7.0\ref\01_ISP.dll

@@ -1,0 +1,15 @@
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-5\01_DIP\bin\Debug\net7.0\01_DIP.exe
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-5\01_DIP\bin\Debug\net7.0\01_DIP.deps.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-5\01_DIP\bin\Debug\net7.0\01_DIP.runtimeconfig.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-5\01_DIP\bin\Debug\net7.0\01_DIP.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-5\01_DIP\bin\Debug\net7.0\01_DIP.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-5\01_DIP\obj\Debug\net7.0\01_DIP.csproj.AssemblyReference.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-5\01_DIP\obj\Debug\net7.0\01_DIP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-5\01_DIP\obj\Debug\net7.0\01_DIP.AssemblyInfoInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-5\01_DIP\obj\Debug\net7.0\01_DIP.AssemblyInfo.cs
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-5\01_DIP\obj\Debug\net7.0\01_DIP.csproj.CoreCompileInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-5\01_DIP\obj\Debug\net7.0\01_DIP.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-5\01_DIP\obj\Debug\net7.0\refint\01_DIP.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-5\01_DIP\obj\Debug\net7.0\01_DIP.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-5\01_DIP\obj\Debug\net7.0\01_DIP.genruntimeconfig.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\WIN21\win21-codepatterns\Lektion-5\01_DIP\obj\Debug\net7.0\ref\01_DIP.dll
